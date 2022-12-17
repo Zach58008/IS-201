@@ -1,0 +1,65 @@
+body {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: rgb(108, 42, 184);
+
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-color: darkslateblue;
+    font-weight: lighter;
+}
+a:visited {
+    color: rgb(22, 7, 46);
+    text-decoration: none;
+}
+img {
+    float: right;
+}
+/* li {
+    font-family: sans-serif;
+    color: rgb(24, 80, 112); */
+iframe {
+    float: right;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(126, 121, 121);
+}
+.pagelink {
+    float: left;
+    font-size: 18px;
+    color: rgb(206, 27, 66);
+    text-decoration: none;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.personalbg {
+    background-color: rgb(188, 243, 213);
+    /* background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.tab {
+    float: right;
+}
+.list1 {
+    color:rgb(32, 129, 214)
+}
+.sub1 {
+    color: darkgoldenrod;
+    font-style: italic;
+}
+.list3 {
+    font-weight: bolder;
+}
+
